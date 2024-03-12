@@ -5,9 +5,4 @@ resource "estaleiro_grupo_seguranca" "grupo-01-prod" {
         descricao = " Orgão 54"
 
     }
-    allowed {
-        cidr = "2001:4860:4860::8888/27"
-        descricao = " Orgão 54"
-
-    }
 }
