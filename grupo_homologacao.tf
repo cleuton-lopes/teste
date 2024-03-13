@@ -5,9 +5,4 @@ resource "estaleiro_grupo_seguranca" "grupo-02-hom" {
         descricao = " Orgão 54"
 
     }
-    allowed {
-        cidr = "2804:301:4000::/126"
-        descricao = " Orgão 54"
-
-    }
 }
