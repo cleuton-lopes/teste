@@ -5,4 +5,9 @@ resource "estaleiro_grupo_seguranca" "apigateway-iac-hom-des" {
         descricao = " Orgão 54"
 
     }
+    allowed {
+        cidr = "2804:594::/32"
+        descricao = " Orgão 54"
+
+    }
 }
