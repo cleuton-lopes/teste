@@ -1,0 +1,6 @@
+object name : FEED-CONECTAGOV
+range 0 : 4.228.33.68            4.228.33.71
+range 1 : 4.228.72.24            4.228.72.24
+range 2 : 4.228.125.195          4.228.125.195
+range 3 : 10.0.0.0               10.255.255.255
+Operation completed successfully
