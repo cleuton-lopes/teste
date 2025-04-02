@@ -2,6 +2,7 @@ object name : FEED-CONECTAGOV
 range 0 : 10.1.2.6            10.1.2.6
 range 1 : 10.200.1.5            10.200.1.5
 range 2 : 10.200.145.4          10.200.145.4
-range 3 : 25.25.25.0               25.25.25.3
+range 3 : 23.23.23.0           23.23.23.3
+range 4 : 25.25.25.0               25.25.25.3
 
 Operation completed successfully
